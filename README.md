@@ -8,6 +8,7 @@ Me gusta automatizar tareas y resolver problemas.
 
 - Raspberry Pi
 - Alpine Linux, Debian, Ubuntu
+- Docker
 - Python, Lua
 
 [Algunos proyectos](https://github.com/otrosilva)
